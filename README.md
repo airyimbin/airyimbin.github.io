@@ -1,5 +1,5 @@
 # Author
-Timothy Yim [Homepage](timyim.info)
+Timothy Yim [Homepage Link](https://timyim.info)
 
 # Design Document
 [Document](https://docs.google.com/document/d/1ba76CVYynG0G9bcMx1ElJ_YyTti2xP4jvz5etQeO7PQ/edit?usp=sharing)
