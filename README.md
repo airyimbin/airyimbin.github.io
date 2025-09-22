@@ -9,7 +9,7 @@ Timothy Yim [Homepage](timyim.info)
 [Video Demo](https://youtu.be/xdxpzZtry9c)
 
 # Class Link
-[CS 5610](https://johnguerra.co/classes/webDevelopment_spring_2025/)
+Created for [CS 5610](https://johnguerra.co/classes/webDevelopment_spring_2025/). Class Professor: John Alexis Guerra Gómez
 
 # Project Objective
 This project is the development of a personal website that will act as a central hub for showcasing who I am, what I do, and what I’ve accomplished.  
