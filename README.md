@@ -3,7 +3,9 @@ Timothy Yim [Homepage](timyim.info)
 
 # Design Document
 [Document](https://docs.google.com/document/d/1ba76CVYynG0G9bcMx1ElJ_YyTti2xP4jvz5etQeO7PQ/edit?usp=sharing)
+
 [Slides](https://docs.google.com/presentation/d/1_D4xWpsIQN9inu-WOhTAe-gnnxHDLe9mwduPyZKhwzw/edit?usp=sharing)
+
 [Video Demo](https://youtu.be/xdxpzZtry9c)
 
 # Class Link
