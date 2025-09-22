@@ -57,7 +57,7 @@ The overall goal is to create a clean, modern, and easy-to-navigate webpage that
 
 # Gen AI Used
 
-Generative AI was used to create the following [page](timyim.info/ai.html).
+Generative AI was used to create the following [page](https://timyim.info/ai.html).
 The prompt used was "In ai.html generate a bootstrap home page with similar content in index.html but complete different style and format and make it a sleek modern interactive personal webpage".
 It was used using Copilot using ChatGPT-5 mini in Visual Studio Code.
 It generated the ai.html page, along with the js/ai.js and css/ai.css files.
